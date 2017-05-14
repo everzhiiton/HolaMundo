@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Que ondis", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Talueguito", Toast.LENGTH_SHORT).show();
             }
         });
 
